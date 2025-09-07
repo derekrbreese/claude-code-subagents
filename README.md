@@ -184,7 +184,7 @@ These subagents are automatically available when placed in `~/.claude/agents/` d
 
 ```bash
 cd ~/.claude
-git clone https://github.com/your-username/claude-code-subagents.git
+git clone https://github.com/0xfurai/claude-code-subagents.git
 ```
 
 ## Usage
