@@ -9,6 +9,7 @@ This repository contains 100+ specialized subagents that extend Claude Code's ca
 ## Available Subagents
 
 ### Programming Languages & Frameworks
+- **[bash-expert](agents/bash-expert.md)** - Master of defensive Bash scripting for production automation, CI/CD pipelines, and system utilities
 - **[python-expert](agents/python-expert.md)** - Master advanced Python features, optimize performance, and ensure code quality
 - **[javascript-expert](agents/javascript-expert.md)** - Modern JavaScript development with ES6+, async patterns, and Node.js APIs
 - **[typescript-expert](agents/typescript-expert.md)** - TypeScript development with type safety, interfaces, and advanced features
